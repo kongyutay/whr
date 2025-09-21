@@ -1,6 +1,6 @@
 {
     "name": "whr-correct",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A mathematically correct Node.js/TypeScript implementation of the Whole History Rating (WHR) algorithm with fixed prior calculations and complete uncertainty estimation",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
