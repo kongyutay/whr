@@ -1,7 +1,7 @@
 {
-    "name": "@whr",
+    "name": "whr-correct",
     "version": "1.0.0",
-    "description": "A Node.js library for Whole History Rating algorithm implementation",
+    "description": "A mathematically correct Node.js/TypeScript implementation of the Whole History Rating (WHR) algorithm with fixed prior calculations and complete uncertainty estimation",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "files": [
@@ -20,14 +20,18 @@
     "keywords": [
         "whr",
         "whole-history-rating",
-        "rating",
+        "rating-system",
         "elo",
         "algorithm",
         "typescript",
         "nodejs",
+        "bayesian",
+        "game-rating",
+        "player-ranking",
+        "coulom",
+        "mathematically-correct",
         "chess",
         "gaming",
-        "ranking",
         "go",
         "baduk"
     ],

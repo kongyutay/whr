@@ -1,5 +1,5 @@
 /**
- * Basic usage example for @whrNode/core
+ * Basic usage example for whr-correct
  * Demonstrates the corrected WHR implementation
  */
 

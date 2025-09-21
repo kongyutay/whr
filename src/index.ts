@@ -1,11 +1,11 @@
 /**
- * @whrNode/core - A Node.js implementation of Whole History Rating algorithm
+ * whr-correct - A mathematically correct Node.js/TypeScript implementation of Whole History Rating algorithm
  *
  * Whole-History Rating (WHR) is a Bayesian rating system for players of time-varying strength.
- * This implementation is based on the algorithm described by Rémi Coulom.
+ * This implementation is based on the algorithm described by Rémi Coulom with mathematical corrections.
  *
- * @author Your Name
- * @version 0.1.0
+ * @author Tay Kong Yu
+ * @version 1.0.0
  */
 
 export { WholeHistoryRating } from "./whr";

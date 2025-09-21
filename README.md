@@ -1,4 +1,4 @@
-# @whrNode/core
+# whr-correct
 
 A mathematically correct Node.js/TypeScript implementation of the Whole History Rating (WHR) algorithm.
 
@@ -32,13 +32,13 @@ This implementation addresses critical mathematical errors found in previous imp
 ## Installation
 
 ```bash
-npm install @whrNode/core
+npm install whr-correct
 ```
 
 ## Quick Start
 
 ```typescript
-import { WholeHistoryRating } from "@whrNode/core";
+import { WholeHistoryRating } from "whr-correct";
 
 // Create a new WHR instance
 const whr = new WholeHistoryRating({
@@ -106,7 +106,7 @@ allRatings.forEach((r) => {
 ### Legacy GameResult Interface
 
 ```typescript
-import { GameResult } from "@whrNode/core";
+import { GameResult } from "whr-correct";
 
 // Alternative interface for batch processing
 const games: GameResult[] = [
